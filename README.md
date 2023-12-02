@@ -1,5 +1,6 @@
 # Serpentine-Reproduced
-`![image](my-serpentine_edited.png)`
+
+![Prototype of Serpentine During Development Stage](my-serpentine_edited.png)
 
 `read-serial.py` Reads the serial port. For this to work, you will have to hook up _Serpentine_ via Arduino. This script is required to record the interaction and analyze it later.
 
